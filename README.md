@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on my own minecraft network
-- 📫 How to reach me: Jasio#2787
+<p align=center> Hi there 👋 </p>
+- 🔭 I'm currently work at crtka
+- 📫 How to reach me: Jasio#0001
 - 😄 Pronouns: he/they
 
